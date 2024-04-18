@@ -3,7 +3,7 @@
 /*
     ✨ ASP SECTION 5
     🚀 Submitted by:
-    👨🏻‍💻 Yash Patel - 110128551 && Malhar Raval - 110128144
+    👨🏻‍💻 Yash Patel - 110128551 && Malhar Raval - 110128144 
 */
 
 #define _GNU_SOURCE
